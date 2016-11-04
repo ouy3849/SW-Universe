@@ -1,0 +1,6 @@
+
+watermelon@watermelon-HP-ProDesk-498-G3-MT-Business-PC:~$ ls -l SW-Universe
+total 8
+drwxrwxr-x 3 watermelon watermelon 4096 11月  4 11:09 codes
+drwxrwxr-x 2 watermelon watermelon 4096 11月  4 11:19 docs
+
